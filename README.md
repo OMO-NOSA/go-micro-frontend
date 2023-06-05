@@ -1,2 +1,2 @@
-# go-micro-frontend
-Frontend for Golang microservices architecture
+# go-micro-service
+Golang microservices architecture with frontend
